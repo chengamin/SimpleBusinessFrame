@@ -1,4 +1,4 @@
-# JhBaseFrame
+# SimpleBusinessFrame
 基础框架之界面及网络请求框架整理,内含网络以及工具类,不必重复引用
 
 ----
