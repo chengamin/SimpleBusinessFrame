@@ -26,7 +26,7 @@
   }
 
 	dependencies {
-	        implementation 'com.github.chengamin:JhBaseFrame:1.0'
+	  implementation 'com.github.chengamin:JhBaseFrame:1.0'
           //butterknife的模块,切记需要引入
           annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 	}
