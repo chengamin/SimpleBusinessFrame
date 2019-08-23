@@ -3,8 +3,6 @@ apply plugin: 'com.android.library'
 android {
     compileSdkVersion 28
 
-
-
     defaultConfig {
         minSdkVersion 21
         targetSdkVersion 28
@@ -49,5 +47,5 @@ dependencies {
     api 'com.squareup.retrofit2:converter-gson:2.6.0'
     api "com.squareup.okhttp3:logging-interceptor:4.0.0"
 
-    api 'com.github.chengamin:JhBaseUtils:1.0'
+    api 'com.github.chengamin:JhBaseUtils:1.1'
 }
