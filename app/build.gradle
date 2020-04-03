@@ -30,7 +30,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation 'com.github.chengamin:JhBaseFrame:1.1'
+    implementation project(':mvp')
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
-    /*implementation 'com.github.chengamin:JhBaseUtils:1.1'*/
 }
